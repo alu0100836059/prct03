@@ -1,1 +1,5 @@
 Respuestas a las preguntas de la práctica 3
+
+¿Cual es el propósito de trabajar con diferentes ramas?
+Poder arreglar problemas concretos y luego aplicar los cambios sin haber puesto en riesgo la parte estable del proyecto.
+Poder establecer una diferencia entre la parte estable y ramas de desarrollo concreto, experimental.
