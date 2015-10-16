@@ -4,5 +4,10 @@ Respuestas a las preguntas de la práctica 3
 Poder arreglar problemas concretos y luego aplicar los cambios sin haber puesto en riesgo la parte estable del proyecto.
 Poder establecer una diferencia entre la parte estable y ramas de desarrollo concreto, experimental.
 
+ HEAD
 ¿Cuál es la ventaja de reorganizar (rebase)?
 Nos permite una combinación de toma de todos los cambios en una rama y combinarlos en otra rama en un commit. Por otra parte podemos realizar un reajuste para pasar a un nuevo punto de partida.
+
+Qué es una reorganización (rebase)?
+Consiste en aplicar los cambios introducidos en una rama sobre otra.
+>>>>>>> C4
